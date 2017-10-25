@@ -24,6 +24,11 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.hughwang.shade</groupId>
+            <artifactId>module-base</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>moduleOne</finalName>

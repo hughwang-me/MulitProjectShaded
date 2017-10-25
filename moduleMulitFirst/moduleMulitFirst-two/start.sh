@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-java -jar target/moduleOne.jar
+java -jar target/moduleMulitFirst-two.jar
